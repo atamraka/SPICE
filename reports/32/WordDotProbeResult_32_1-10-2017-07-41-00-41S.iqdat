@@ -1,0 +1,2 @@
+#S.N.	date	time	blockcode	trialcode	threat_word_value	neutral_word_value	probe_position	current_probe_value	response	correct	latency	values_sum_correct	values_sum_correct_PITP	values_count_PITP	values_sum_correct_PINP	values_count_PINP	values_sumtr_PITP	values_sumrt_PINP	values_meanrt_PITP	values_meanrt_PINP	trail_probe_PITP_medianLatency	trial_probe_PINP_medianLatency	expression_TBI
+

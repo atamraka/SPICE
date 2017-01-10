@@ -1,0 +1,10 @@
+************************************* STARTING APPLICAITON ********************************************
+screen size= (1920, 1080)
+Program Start Time :07-39-50-39S
+PHASE.phaseNumber = 1
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    DOT PROBE TRAINING PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+PHASE.phaseNumber = 1
+acceptchar =False/nafter 500 sec, acceptchar =True/n

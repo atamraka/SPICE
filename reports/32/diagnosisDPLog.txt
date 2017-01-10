@@ -1,0 +1,24 @@
+************************************* STARTING APPLICAITON ********************************************
+screen size= (1920, 1080)
+Program Start Time :07-41-00-41S
+PHASE.phaseNumber = 1
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    DOT PROBE TRAINING PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+PHASE.phaseNumber = 1
+acceptchar =False/nafter 500 sec, acceptchar =True/nprev response= IDLE      current response= CHAR      differnce in time=  2.82587582188
+onChar() MainFrame.isRun=  True
+show white for 2 sec
+PHASE.phaseNumber = 1
+acceptchar =False/nafter 500 sec, acceptchar =True/nprev response= CHAR      current response= CHAR      differnce in time=  3.99498469334
+onChar() MainFrame.isRun=  True
+show white for 2 sec
+PHASE.phaseNumber = 1
+acceptchar =False/nafter 500 sec, acceptchar =True/nprev response= CHAR      current response= CHAR      differnce in time=  4.03498270223
+onChar() MainFrame.isRun=  True
+show white for 2 sec
+PHASE.phaseNumber = 1
+acceptchar =False/nafter 500 sec, acceptchar =True/n5 sec delay5sec====> prevresponsetime= 10.8558436125	 prevResponse= CHAR	currentResponseTime= 18.6872001236	 currentResponse= IDLE
+diff= 7.83135651107
+after 5 sec idleness======>diff is greater than 7.75

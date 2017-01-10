@@ -1,0 +1,16 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    DOT PROBE TRAINING PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 1  correct=FALSE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 1  correct=FALSE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
++++++++++++++++++++++++++++++++ ideal for 5 sec
